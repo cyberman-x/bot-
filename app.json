@@ -51,7 +51,7 @@
     },
     "GIT_REPO_NAME": {
       "description": "Your repo name Example: Total-Noob-69/X-Tra-Telegram, but GITHUB_ACCESS_TOKEN must be setup first.",
-      "value": "cyberman-x/bot-",
+      "value": "",
       "required": false
     },
     "LYDIA_API_KEY": {
